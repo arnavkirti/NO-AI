@@ -83,3 +83,13 @@ These are intentionally scoped to be achievable **without needing AI help**, whi
   * Events or polling for updates
 
 **Stretch Goal**: Show transaction history.
+
+---
+
+## 6. **Phaser.js (2D Graphics and in-browser Games)**
+
+### Project: **Snake Game**
+
+* **What it is**: A in-bowser snake game (React + Phaser.js) 
+
+**Stretch Goal**: Multi-level Game, or make a website with a Collection of 90s Games. (Like Contra would be a nice challenge)
