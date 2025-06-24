@@ -152,3 +152,4 @@ These help with understanding concurrency, async/await, and more complex data st
 
 ---
 
+- Create an HTTP Server from scratch in C/C++. (Will teach you a lot)
