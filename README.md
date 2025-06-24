@@ -96,7 +96,7 @@ These are intentionally scoped to be achievable **without needing AI help**, whi
 
 ---
 
-###Mini Rust Projects
+## Mini Rust Projects
 ---
 
 ### 🚀 Beginner Level
