@@ -153,3 +153,9 @@ These help with understanding concurrency, async/await, and more complex data st
 ---
 
 - Create an HTTP Server from scratch in C/C++. (Will teach you a lot)
+- Build a neural network from scratch.
+
+If you feel stuck in JS (Javascript being your life): need some change:
+- Use pyhton :
+  - Make a game using pygame.
+  - Make a cli tool in python.
