@@ -2,23 +2,40 @@ These are intentionally scoped to be achievable **without needing AI help**, whi
 
 ---
 
-## 🧑‍🎨 1. **Frontend (React / Next.js)**
+## Frontend (Vanilla JS)
 
-### 🧩 Project: **DevTools-Inspired Tab Switcher**
+### Project: Simple Task-Manager (To-do App)
 
-* **What it is**: A mini UI app with tabs (like "Console", "Elements", "Network"), where each tab shows mock data.
+* What it is: A App made to manage tasks
+* What you'll practice:
+  
+  * DOM Manipulation
+  * Events and event bubbling
+  * State Management w/o frameworks
+  * Browser storage (localStorage, sessionStorage)
+
+  I will add a detailed README for the project in `Frontend(Vanilla)/README.md`, with project structured into tasks that can help you complete it and learn on the go.
+
+
+## **Frontend (React)**
+
+### Project: Simple Task-Manager (To-do App)
+
+* **What it is**: A mini UI app to manage task but in React.
 * **What you’ll practice**:
 
   * React component composition
   * `useState`, `useEffect`, lifting state
   * Conditional rendering
   * CSS grid or flexbox layout
+  * `useReducer` for complex state management logic
+  * Context API for Global State
 
 **Stretch Goal**: Implement dark mode toggle and persist theme in `localStorage`.
 
 ---
 
-## 🛠️ 2. **Backend (Node.js + Express)**
+## 🛠️ **Backend (Node.js + Express)**
 
 ### 🧩 Project: **Minimal URL Shortener API**
 
