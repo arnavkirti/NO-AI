@@ -2,6 +2,20 @@ These are intentionally scoped to be achievable **without needing AI help**, whi
 
 ---
 
+### Stuff is this:
+
+- Frontend: `JS, CSS, React.js, Next.js`
+    These modern frameworks are just frameworks they can change, learn from first principles and don't be framework dependent. (dont be the guy who loves React and only uses that). Frameworks change (Remember that).
+
+- Backend: Start with `Nodejs/Express` then work with better languages that are fast like `Rust/Go`, always take these design decisions seriously and not just because you know Nodejs then you stick to Nodejs. You can go on to use a Framework like `Nestjs`. Again learn deeply about what you are using and why you are.
+
+- Web3: (Ethereum) Start with Full-Stack Learning and then learn `Solidity`, then go and learn about `EVM` and read blogs on Ethereum's Official Website. Implement an EVM is `Rust/Go`. Then comes your interests like `ZK, MEV, DeFi, Tokenomics, RWA, etc.` etc. Also learn about libraries that let you interact with your contracts like `viem`. 
+
+- Low-Level Programming: Learn `C` then read `OSTEP` and work your way through compilers, lexers, CPU architecture and other stuff. Read `Beej's Guide to network programming` and just build things. Also learn `Assembly` it will really help you understand CPUs. Do some basic Reverse Engineering at PicoCTF if you want to go that extra mile. 
+
+- Games: You could Learn `Godot` or `Unity`. Or if interested in Browser based games: learn `phaser.js, three.js, GSAP, Babylon.js` these are some really good resources. Other than that just build stuff bro.
+
+
 ## Frontend (Vanilla JS)
 
 ### Project: Simple Task-Manager (To-do App)
